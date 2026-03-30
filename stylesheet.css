@@ -1,0 +1,65 @@
+body {
+    background-color: #f1f5f9
+    margin; 0:
+    min-height: 100vh;
+    background-image:url('assets/bg-left-bottom.png'); 
+    /* tambahin img nnti */
+    background-position: left-bottom;
+    background-repeat: no-repeat;
+    background-size: 30% auto; 
+    /* sesuaikan lagi nnti */
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* bagian login gayanya */
+.login-card {
+    background: #78bae6
+    padding: 1.5rem;
+    border-radius: 8px;
+    box-shadow: 0.4px 12px rgba(0,0,0,0.06)
+    text-align: center;
+
+}
+
+.pink-bg{
+    background-color: #e580be
+    /* bisa benerin lagi warna pinky nya  */
+}
+
+.text-white {color: #fff !important;}
+
+.hero-section{
+    height: 75vh;
+    background:
+    linear-gradient(rgba(244,143,177,0.7),rgba(244,143,177,0.7)),
+    url('ini gasnti apa gambar ygdownlod yah');
+background-size:cover;
+background-position: center;
+}
+
+
+.pink-btn {
+    background-color: rgba(248, 58, 122, 0.56)
+    color:white;
+    border:none;
+}
+
+.pink-btn-hover {
+    background-color: #d81b60
+}
+
+.logo {
+    text-decoration: none;
+    color:inherit;
+    font-weight: 700;
+}
+
+.logo-hover {
+    color-inherit;
+}
