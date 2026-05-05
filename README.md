@@ -11,18 +11,30 @@ by: me number 124250173
     " you can see there :) "
     
 naturalle-beauty_yogya/
-├── index.html      ← home page (halaman utama)
-├── login.html      ← login page (halaman login)
-├── style.css       ← all styling for my website
-├── translations.js ← The content in Bahasa Indonesia & English Language, you can choose that in your preference own main language :)
-├── main.js         ← interaktivitas (toggle bahasa, dark mode, animasi *keterangan: I'm using this features to make more website looking interesting)
+
+   ├── index.html      ← home page (halaman utama)
+
+   ├── login.html      ← login page (halaman login)
+
+   ├── style.css       ← all styling for my website
+
+   ├── translations.js ← The content in Bahasa Indonesia & English Language, you can choose that in your preference own main language :)
+
+   ├── main.js         ← interaktivitas (toggle bahasa, dark mode, animasi *keterangan: I'm using this features to make more website looking interesting)
+
 └── img/
-    ├── hero.png
-    ├── skincare.png
-    ├── haircare.png
-    ├── bodycare.png
-    ├── ingredients.png
-    └── sustainability.png
+
+   ├── hero.png
+   ├── skincare.png
+
+   ├── haircare.png
+
+   ├── bodycare.png
+ 
+    
+   ├── ingredients.png
+
+   └── sustainability.png
 
 
         **FITUR IN MY WEBSITE "Naturalle Beauty - Yogya"**
