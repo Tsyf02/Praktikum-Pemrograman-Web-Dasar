@@ -25,6 +25,7 @@ naturalle-beauty_yogya/
 └── img/
 
    ├── hero.png
+   
    ├── skincare.png
 
    ├── haircare.png
