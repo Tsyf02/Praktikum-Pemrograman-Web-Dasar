@@ -1,11 +1,15 @@
 **PROJECT TASK 3 - CLASS "Basic Web Programming Practicum"**
+
 by: me number 124250173
+
 
         DESCRIPTION OF THE WEBSITE "Naturalle Beauty - Yogya" 
   Naturalle Beauty - Yogya
 
-**THE STRUCTURE OF MY PROJECT**
+
+        **THE STRUCTURE OF MY PROJECT**
     " you can see there :) "
+    
 naturalle-beauty_yogya/
 ├── index.html      ← home page (halaman utama)
 ├── login.html      ← login page (halaman login)
@@ -21,7 +25,7 @@ naturalle-beauty_yogya/
     └── sustainability.png
 
 
-**FITUR IN MY WEBSITE "Naturalle Beauty - Yogya"**
+        **FITUR IN MY WEBSITE "Naturalle Beauty - Yogya"**
 1. Toggle (Language ID ↔ EN)
 2. Dark Mode or Light Mode (you can change based on your preference)
 3. Animasi scroll reveal 
